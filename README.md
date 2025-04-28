@@ -2,8 +2,8 @@
 
 **-> Project Overview:** 
 
-    1.Designed a comprehensive Power BI dashboard to analyze JioMart's product sales performance, customer satisfaction, and inventory distribution. Focused on identifying key insights, 
-    2.trends, and opportunities for business optimization.
+    1.Designed a comprehensive Power BI dashboard to analyze JioMart's product sales performance, customer satisfaction, and inventory distribution. 
+    2.Focused on identifying key insights trends, and opportunities for business optimization.
     
 **-> Tools Used:-**
 
